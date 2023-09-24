@@ -1,0 +1,1 @@
+CETCracker,x32dbg,x64dbg,Eugenio,ollydbg,吾爱破解,PEID,PCHunter,DiE64
